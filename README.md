@@ -1,8 +1,7 @@
 # OctoPrintUI
+## A Javascript Library for building custom 3D Printer touch-screen interfaces for use with OctoPrint.
 
 ![Star Trek Style Control Pad](https://cloud.githubusercontent.com/assets/542863/5887033/631e8d74-a370-11e4-9328-3475c39097bf.gif)
-
-A Javascript Library for building custom OctoPrint interfaces.
 
 Originally concenived to allow me to make the above interface functional on small touchscreen attached to an OctoPi, giving me access to a subset of the most important features and controls that I want on my printer, first represented by the above picture in [this thread](https://github.com/foosel/OctoPrint/issues/12).
 
